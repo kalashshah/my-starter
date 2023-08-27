@@ -1,0 +1,8 @@
+{
+  "name": "@my-starter/types",
+  "version": "0.0.1",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.17.1"
+  }
+}

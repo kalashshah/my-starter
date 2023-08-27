@@ -1,1 +1,1 @@
-# my-web3-starter
+# my-starter
